@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    # noinspection SpringBootApplicationYaml
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://172.25.25.120:3306/hard_fire?useUnicode=true&characterEncoding=utf-8
+    username: ping
+    password: 1415926
+
